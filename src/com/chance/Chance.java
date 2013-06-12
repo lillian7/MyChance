@@ -18,6 +18,10 @@ public class Chance {
     @Override
     public boolean equals(Object another)
     {
-         return probability == ((Chance) another).probability;
+
+        if(probability == ((Chance) another).probability)
+            return true;
+        else
+            return false;
     }
 }

@@ -21,7 +21,7 @@ public class ChanceTest
     {
         Chance chance = new Chance(0.5);
 
-        assertThat(chance == chance, is(true));
+        assertThat(chance.equals(chance), is(true));
     }
 
     @Test
@@ -31,7 +31,7 @@ public class ChanceTest
 
         Chance chance = new Chance(0.6);
 
-        assertThat(chance != null, is(true));
+        assertThat(chance.equals(null), is(false));
 
     }
 

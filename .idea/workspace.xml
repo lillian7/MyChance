@@ -6,9 +6,10 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Chancetest.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371035762142" ignored="false" />
     <file path="/fragment.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371037006281" ignored="false" />
-    <file path="/Chance.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371040908558" ignored="false" />
-    <file path="/ChanceTest.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371041084123" ignored="false" />
+    <file path="/Chance.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371042612444" ignored="false" />
+    <file path="/ChanceTest.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371042249819" ignored="false" />
     <file path="/Bird.java" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371037012207" ignored="false" />
+    <file path="/.gitignore" changelist="cf863f7f-5b0f-4d4b-908e-a9a15f43a6eb" time="1371041841761" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <file leaf-file-name="ChanceTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/chance/ChanceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="48" selection-start="622" selection-end="622" vertical-scroll-proportion="-4.52">
+            <state line="33" column="0" selection-start="575" selection-end="575" vertical-scroll-proportion="-5.08">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,7 +93,7 @@
       <file leaf-file-name="Chance.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chance/Chance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="385" selection-end="385" vertical-scroll-proportion="0.6083551">
+            <state line="10" column="19" selection-start="222" selection-end="222" vertical-scroll-proportion="0.25587466">
               <folding />
             </state>
           </provider>
@@ -111,6 +112,7 @@
         <option value="$PROJECT_DIR$/test/Chancetest.java" />
         <option value="$PROJECT_DIR$/src/Chance.java" />
         <option value="$PROJECT_DIR$/src/com/chance/Bird.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test/com/chance/ChanceTest.java" />
         <option value="$PROJECT_DIR$/src/com/chance/Chance.java" />
       </list>
@@ -195,24 +197,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Mychance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mychance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mychance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,8 +453,8 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.All in Mychance" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ChanceTest.should_not_be_equal_to_chance_with_dif_probability" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ChanceTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ChanceTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ChanceTest.should_not_be_equal_to_chance_with_dif_probability" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.ChanceTest.should_be_equal_to_another_chance_with_same_probability" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.ChanceTest.should_be_equal_to_itself" />
       </list>
@@ -524,7 +508,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25755167" sideWeight="0.6944" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -604,9 +588,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="11" selection-end="11" vertical-scroll-proportion="0.036764707">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/com/chance/ChanceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="48" selection-start="622" selection-end="622" vertical-scroll-proportion="-4.52">
+        <state line="33" column="0" selection-start="575" selection-end="575" vertical-scroll-proportion="-5.08">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -615,7 +606,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chance/Chance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="385" selection-end="385" vertical-scroll-proportion="0.6083551">
+        <state line="10" column="19" selection-start="222" selection-end="222" vertical-scroll-proportion="0.25587466">
           <folding />
         </state>
       </provider>
